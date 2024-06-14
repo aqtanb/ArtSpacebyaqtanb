@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Art Space by aqtanb</string>
+    <string name="art_description">There is an Art</string>
+    <string name="first_art_name">Mao - some asian dude in China</string>
+    <string name="first_art_author">Mao Zedong</string>
+    <string name="first_art_year">(2093)</string>
+    <string name="second_art_name">Aktan - greatest man to ever exist</string>
+    <string name="second_art_author">Moya Mama</string>
+    <string name="second_art_year">(2006)</string>
+    <string name="third_art_name">Idk - aesthetic medieval art</string>
+    <string name="third_art_author">Medieval Artist</string>
+    <string name="third_art_year">(1337)</string>
+    <string name="previous_button">Previous</string>
+    <string name="next_button">Next</string>
+</resources>
